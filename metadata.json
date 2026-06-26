@@ -1,0 +1,6 @@
+{
+  "name": "Apex Roofing",
+  "description": "High-end residential and commercial roofing services with a focus on craftsmanship and reliability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
